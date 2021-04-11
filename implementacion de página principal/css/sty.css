@@ -1,0 +1,49 @@
+
+
+h1
+{
+  color: #faebd7 ;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2
+{
+  color: #faebd7 ;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+body 
+{
+    background-color:#000000;
+}
+
+.texto /*modifica todos los parrafos (<p>)*/
+{
+ color: #ffebcd;
+ text-align: justify ;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#rellenocontainer 
+{
+    background-color:#ff0000;
+}
+
+.politicas a 
+{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+#espacio-img 
+{
+  margin-top: 20px;
+}
+
+
+ 
